@@ -1,0 +1,26 @@
+.lesson-details {
+    margin: 10px 0;
+}
+
+.lesson-details h3 {
+    color: #333;
+}
+
+.lesson-details button {
+    margin: 5px;
+    padding: 5px 10px;
+    background-color: #505EE0;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.lesson-details button.completed {
+    background-color: grey;
+}
+
+.lesson-details #back{
+    margin: 10px;
+    padding: 10px 20px;
+}
